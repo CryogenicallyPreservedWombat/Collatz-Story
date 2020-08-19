@@ -1,0 +1,4 @@
+	"Good morning, sir. I'm looking for directions to Dr. Collatz's office, you wouldn't happen to know the way, would you? I'm running a bit late, it's (TIME) and I really must be on my way."
+"Of course," says the ticket master. "Which number station is this, again?"
+What a bizarre question, you think, before answering.
+

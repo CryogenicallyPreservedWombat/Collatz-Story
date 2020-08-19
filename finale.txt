@@ -1,0 +1,8 @@
+
+"Ah, well then you'll find him on station (STATION). Have a good day!"
+You board the train wearily and head off to station (STATION). You check your watch nervously and realize that it's already (TIME).
+
+	A few minutes later, you get off at station (STATION) and everything is beginning to look oddly familiar. You ask a kindly looking lady if the good doctor can be found at the station, but she shakes her head no and points you to the ticket master.
+	"He'd know," she says confidently before continuing on her way.
+
+

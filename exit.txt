@@ -1,0 +1,12 @@
+
+As you approach the ticket master, a peculiar man with an anachronistic coat and a monocle pulls you aside. 
+	"Dr. Collatz?" You ask, perplexed and a little frightened.
+	"Welcome to my office," he says, opening his arms in a welcoming gesture. "They say all roads lead here, although I suppose no one is really sure." He gives you an avuncular smile and disappears around a corner. You follow, but no one is there. In the distance you hear a faint ringing, like the chime of a bell.
+
+The sound of an alarm wakes you from your slumber. You glance at a clock mounted on the wall and pale to see that it reads 11:(MINUTE). Your appointment's scheduled time is nearly passed and Dr. Collatz is an eccentric fellow with a strong sense of punctuality. 
+
+The city is new to you, and nowhere is that more pronounced than its trains. Good directions are hard to come by, and it often feels like you take two steps backward for every step you take forward.
+
+Sighing quietly to yourself, you enter your local station and make your way over to the ticket master.
+
+
