@@ -4,7 +4,7 @@ from random import randint, random
 # Returns inputted station number
 def run_intro(minute, hour):
     intro = open('intro.txt', mode='r').read()
-    intro = intro.replace('(TIME)', '{}:{}'.format(hour, minute if minute > 10 else '0' + str(minute)))
+    intro = intro.replace('(TIME)', '{}:{}'.format(hour, minute if minute >= 10 else '0' + str(minute)))
     station = input(intro)
     return station
 
